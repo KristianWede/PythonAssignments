@@ -1,0 +1,6 @@
+2023-09-28 10:04:13 - Called function add
+2023-09-28 10:04:13 - Called function add
+2023-09-28 10:11:00 - Called function add with arguments: 1, 2, 3
+2023-09-28 10:11:00 - Called function add with arguments: 4, 5, 6
+2023-09-28 10:12:23 - Called function add with arguments: 1, 2, 3. Result: 6
+2023-09-28 10:12:23 - Called function add with arguments: 4, 5, 6. Result: 152023-09-28 10:14:42 - Called function printer with arguments: Hello, world!. Result: Hello, world!
